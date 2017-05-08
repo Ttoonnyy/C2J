@@ -1,8 +1,13 @@
 # C2J
-Converts CSV files to JSON files
+Converts csv files to json (creates json file from csv)
 
-# Windows
-Usage: C2J.exe -i (input file path) -o (output file path)
+# Windows uage
+After installation run cmd within installed directory. Use following command;
+C2J.exe -i (input file path) -o (output file path)
 
-# Releases
-https://github.com/DRGC/C2J/releases/
+# Changes
+v1.0 - Initial fork
+
+# Development
+Pretty print
+No install converter
